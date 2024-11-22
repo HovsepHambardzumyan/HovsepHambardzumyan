@@ -1,4 +1,4 @@
-# about
+# Hi ✌️
 Creative and outcome-driven individual with computer science and engineering background who is passionate in algorithmic thinking and problem solving. Passionate developer of 3D projects using Unity and C#. Experienced in developing and maintaining PHP applications, advanced knowledge of HTML, CSS, and JavaScript. Experienced in SQL/NoSQL database architecture, designing and developing effective APIs. Demonstrated history of working in the information technology and services industry. Highly responsible personality, effective team player and game changer
 
 Information
